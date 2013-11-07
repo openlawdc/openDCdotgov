@@ -16,8 +16,12 @@ Include your name (and a link, if you want) at the start of your answer, so read
 
 ## What are the limitations to transparency?
 
+[Joshua Tauberer](/joshdata): Transparency is an ideal, like "good government." It guides a set of practices, including FOIA, pro-active disclosure, open meetings, plain language, access to and analysis of data, and so on that creates a more informed public.  Transparency is not merely the making of a government record available to the public, even though that is often where it begins. As to the limits to what transparency can accomplish, what government program wouldn't be improved by a more informed public? But as with all government programs, not all transparency programs will create equal impact. The question is not what transparency can't do, but where to begin. What will have the most impact, at the least cost, for the District's policy goals (reducing corruption, increasing citizen trust, and so on)? As for the legal limitations of transparency, they are already set in law, e.g. in the FOIA exemptions in [§ 2-534](http://dccode.elaws.us/code?no=2-534). Limitations should be narrow, clearly defined, general in applicability across government agencies, and set by statute. What isn't clearly exempt from public disclosure is public and should be made available to the public in manners that promote access and reuse.
+
 ## What policy impediments to innovation in government currently exist?
 
 ## What changes in training or hiring of personnel would enhance innovation?
 
 ## What performance measures are necessary to determine the effectiveness of open government policies?
+
+[Joshua Tauberer](/joshdata): As with other government programs, the effectiveness of open government programs can be measured by looking to how the programs have improved the lives of DC residents. This has to be done on a case by case basis. For instance, with public transit data, it is possible to compare open data programs to other methods of reducing commute times, such as track work improvement, to see which is cheaper *per minute reduced in aggregate commute time*. For open meetings efforts, how many more residents are participating in meetings and how many new good ideas were incorporated into District policy because of greater openness at meetings?

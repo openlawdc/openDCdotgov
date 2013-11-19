@@ -10,7 +10,7 @@ Include your name (and a link, if you want) at the start of your answer, so read
 
 [Ben Klemens](https://github.com/b-k): Bids and solicitations are the bread and butter of open governance, because they are the focal point for corruption and allegations of corruption. For any bid or solicitation where the decision was made using confidential documents, there are jounralists and residents questioning whether the decision was honestly made.
 
-The agencies that most directly affect residents on the consumer level are DDOT, DPW, and DCRA. Simple qualiyty-of-service metrics for all of their services would have a big impact. E.g., maps of trash collection quality of service, heat maps of parking ticket issuances, summary statistics of permit issuances. These are useful to consumers in their own right, and are let the data-oriented public search for areas in need of improvement.
+The agencies that most directly affect residents on the consumer level are DDOT, DPW, and DCRA. Simple qualiyty-of-service metrics for all of their services would have a big impact. E.g., maps of trash collection quality of service, heat maps of parking ticket issuances, summary statistics of permit issuances. These are useful to consumers in their own right, and let the data-oriented public search for areas in need of improvement.
 
 ## Which document or data formats should be available for online information?
 
